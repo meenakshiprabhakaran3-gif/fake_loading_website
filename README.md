@@ -89,7 +89,7 @@ NO → END)
 
 ### Project Demo
 # Video
-[
+[https://drive.google.com/file/d/1CjDYbE2N5hJkye0AJNMgokadOBuF57BM/view?usp=sharing]
 *Loadingo is a fun, interactive website that simulates a dynamic loading process using HTML, CSS, and JavaScript. It features an animated progress bar, changing messages, and an unexpected humorous outcome, making the user experience entertaining and engaging.*
 
 
