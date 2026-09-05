@@ -46,6 +46,8 @@ For Software:
 
 # Screenshots (Add at least 3)Add
 ![c:\Users\ASWATHY\Pictures\Screenshots\Screenshot 2026-09-06 021629.png](STARTING)
+<img width="1920" height="1200" alt="Screenshot 2026-09-06 021629" src="https://github.com/user-attachments/assets/5833c7b2-82c0-498e-a1d5-cffef4e63efb" />
+
 THE INITIAL LOADINGO SCREEN SHOWING THE LOADING INTERFACE AND PROGRESS BAR AT THE BIGINNING OF THE PROCESS*
 
 ![![c:\Users\ASWATHY\Pictures\Screenshots\Screenshot 2026-09-06 021712.png](AROUND 50%)
