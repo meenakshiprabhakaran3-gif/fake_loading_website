@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #111827;
+
+    font-family: Arial, sans-serif;
+
+    color: white;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+
+    text-align: center;
+
+    padding: 40px;
+
+    background: #1f2937;
+
+    border-radius: 20px;
+
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.emoji {
+    font-size: 60px;
+
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+h1 {
+    font-size: 32px;
+
+    margin-bottom: 30px;
+}
+
+.progress-container {
+    width: 100%;
+
+    height: 25px;
+
+    background: #374151;
+
+    border-radius: 20px;
+
+    overflow: hidden;
+}
+
+#progress-bar {
+    width: 0%;
+
+    height: 100%;
+
+    background: #22c55e;
+
+    border-radius: 20px;
+
+    transition: width 0.1s;
+}
+
+#percentage {
+    font-size: 26px;
+
+    margin-top: 20px;
+
+    font-weight: bold;
+}
+
+#message {
+    color: #9ca3af;
+
+    font-size: 18px;
+
+    min-height: 25px;
+}
+
+#result {
+    font-size: 28px;
+
+    font-weight: bold;
+
+    margin-top: 20px;
+}
+
+#retry {
+    display: none;
+
+    margin-top: 25px;
+
+    padding: 12px 25px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: #3b82f6;
+
+    color: white;
+
+    font-size: 16px;
+
+    cursor: pointer;
+}
+
+#retry:hover {
+    transform: scale(1.05);
+}
+
+.attempts {
+    margin-top: 25px;
+
+    color: #9ca3af;
+
+    font-size: 14px;
+}
